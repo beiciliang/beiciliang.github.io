@@ -15,3 +15,17 @@ plugins:
   - jekyll-seo-tag
   
 theme: jekyll-theme-console
+
+title: 'beiciliang.github.io'
+description: "Beici Liang's Personal Website"
+url: "https://beiciliang.github.io"
+
+header_pages:
+  - index.md
+
+style: dark
+
+footer: 'follow me on <a href="www.linkedin.com/in/beiciliang">LinkedIn</a>'
+
+# Build settings
+markdown: kramdown
