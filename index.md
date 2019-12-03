@@ -1,5 +1,5 @@
 ---
-title: /home
+title: Beici|贝茨
 layout: home
 permalink: /
 ---
