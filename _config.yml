@@ -25,7 +25,7 @@ header_pages:
 
 style: dark
 
-footer: 'follow me on <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/beiciliang">LinkedIn</a> or <a target="_blank" rel="noopener noreferrer" href="https://github.com/beiciliang">Github</a>'
+footer: 'follow me on <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/beiciliang">linkedin</a> or <a target="_blank" rel="noopener noreferrer" href="https://github.com/beiciliang">github</a>'
 
 # Build settings
 markdown: kramdown
