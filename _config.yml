@@ -14,7 +14,7 @@
 plugins:
   - jekyll-seo-tag
   
-theme: jekyll-theme-console
+# theme: jekyll-theme-console
 
 title: 'beiciliang.github.io'
 description: "Beici Liang's Personal Website"
@@ -22,6 +22,8 @@ url: "https://beiciliang.github.io"
 
 header_pages:
   - index.md
+  - about_eng.md
+  - about_chn.md
 
 style: dark
 
