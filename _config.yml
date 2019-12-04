@@ -22,8 +22,7 @@ url: "https://beiciliang.github.io"
 
 header_pages:
   - index.md
-  - about_eng.md
-  - about_chn.md
+  - about.md
 
 style: dark
 
