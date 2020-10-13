@@ -12,7 +12,7 @@ permalink: /about/
 
 <br />I enjoy writing popular science articles about music technology in my spare time.
 
-<br />Interested in more details? Check my <a target="_blank" rel="noopener noreferrer" href="https://beiciliang.github.io/pdf/eng_cv_beici.pdf">CV</a>.
+<br />Interested in more details? Check my <a target="_blank" rel="noopener noreferrer" href="https://beiciliang.github.io/pdf/eng_cv_beici.pdf">CV</a> (latest updated in Sep. 2020).
 
 
 # 关于我
@@ -23,4 +23,4 @@ permalink: /about/
 
 <br />业余时间我喜欢在<a target="_blank" rel="noopener noreferrer" href="https://mp.weixin.qq.com/mp/homepage?__biz=MzU5MzY3NzI0OA==&hid=1&sn=ed3a383088e132ef1df0e968b36c717d&scene=1&devicetype=iOS11.4.1&version=16070026&lang=zh_CN&nettype=WIFI&ascene=7&session_us=gh_e4d709ed182c&fontScale=100&wx_header=1">公众号无痛入门音乐科技(intro2musictech)</a>或<a target="_blank" rel="noopener noreferrer" href="https://www.zhihu.com/people/beiciliang/answers">知乎网</a>科普音乐科技.
 
-<br />想了解更多？请查看我的<a target="_blank" rel="noopener noreferrer" href="https://beiciliang.github.io/pdf/chn_cv_beici.pdf">中文简历</a>.
+<br />想了解更多？请查看我的<a target="_blank" rel="noopener noreferrer" href="https://beiciliang.github.io/pdf/chn_cv_beici.pdf">中文简历</a> (最近更新于2020年9月).
