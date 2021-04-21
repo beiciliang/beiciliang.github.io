@@ -6,7 +6,7 @@ permalink: /about/
 
 # About Me
 
-<br />I have been working as a Research Scientist at the Tencent Music Entertainment Group since September, 2019.
+<br />I worked as a Senir Research Engineer at Tencent Music Entertainment from September 2019 to April 2021.
 
 <br />I did my PhD in Media and Arts Technology at <a target="_blank" rel="noopener noreferrer" href="http://c4dm.eecs.qmul.ac.uk/" class="canbeselected">C4DM</a> and <a target="_blank" rel="noopener noreferrer" href="http://www.mat.qmul.ac.uk/" class="canbeselected">MAT CDT</a>, Queen Mary University of London, from September 2014 to November 2019.
 
@@ -17,7 +17,7 @@ permalink: /about/
 
 # 关于我
 
-<br />我从2019年9月起加入腾讯音乐娱乐集团，从事应用研究的工作.
+<br />2019年9月至2021年4月，我在腾讯音乐娱乐集团从事高级应用研究员的工作. 现在依然活跃在音乐科技界.
 
 <br />2014年9月至2019年11月，我在伦敦玛丽女王大学的<a target="_blank" rel="noopener noreferrer" href="http://c4dm.eecs.qmul.ac.uk/">数字音乐中心</a>和<a target="_blank" rel="noopener noreferrer" href="http://www.mat.qmul.ac.uk/">媒体艺术科技项目</a>拿下了博士学位.
 
