@@ -12,7 +12,7 @@ permalink: /
                    
 ```
 
-I am Beici Liang, a PhD & research scientist & popular science writer in music technology.
+I am Beici Liang, a PhD & tech lead & popular science writer in music technology.
 
 
-<br />很高兴认识你! 我是梁贝茨，一个致力于音乐科技方向的博士 & 算法应用研究员 & 科普作者.
+<br />很高兴认识你! 我是梁贝茨，一个致力于音乐科技方向的博士 & 技术负责人 & 科普作者.
