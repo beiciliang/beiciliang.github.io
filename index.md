@@ -12,7 +12,7 @@ permalink: /
                    
 ```
 
-I am Beici Liang, a PhD & tech lead & popular science writer in music technology.
+I am Beici Liang, a PhD & tech lead & popular science writer in music technology. Currently based in Trondheim, Norway with my significant other <a target="_blank" rel="noopener noreferrer" href="https://mmxgn.github.io/">Manos</a> ❤
 
 
-<br />很高兴认识你! 我是梁贝茨，一个致力于音乐科技方向的博士 & 技术负责人 & 科普作者.
+<br />很高兴认识你! 我是梁贝茨，一个致力于音乐科技方向的博士 & 技术负责人 & 科普作者. 现在和<a target="_blank" rel="noopener noreferrer" href="https://mmxgn.github.io/">马诺斯</a>一起居住在挪威的特隆赫姆 ❤
