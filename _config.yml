@@ -13,10 +13,10 @@
 
 plugins:
   - jekyll-seo-tag
-  
+
 # theme: jekyll-theme-console
 
-title: 'beiciliang.github.io'
+title: "beiciliang.github.io"
 description: "Beici Liang's Personal Website"
 url: "https://beiciliang.github.io"
 
@@ -26,7 +26,7 @@ header_pages:
 
 style: dark
 
-footer: 'follow my other social medias via <a target="_blank" rel="noopener noreferrer" href="https://linktr.ee/beiciliang">linktr</a>'
+footer: 'drop me an <a target="_blank" rel="noopener noreferrer" href="mailto:liangbeici@gmail.com">email</a>'
 
 # Build settings
 markdown: kramdown
