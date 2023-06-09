@@ -26,7 +26,7 @@ header_pages:
 
 style: dark
 
-footer: 'drop me an <a target="_blank" rel="noopener noreferrer" href="mailto:liangbeici@gmail.com">email</a>'
+footer: 'drop me an <a target="_blank" rel="noopener noreferrer" href="mailto:beici.liang@foxmail.com">email</a>'
 
 # Build settings
 markdown: kramdown
