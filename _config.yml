@@ -1,34 +1,32 @@
 # Example Site settings
 
+#google_analytics: UA-NNNNNNNN-N
+
 #header_pages:
 #  - index.md
 #  - about.md
 
 #footer: 'follow us on <a href="https://twitter.com/">twitter</a>'
 
+#style: light # dark (default) or light
+#listen_for_clients_preferred_style: true # true or false (default)
+
 plugins:
   - jekyll-seo-tag
 
-# Theme options
-# style: dark # dark (default) or light or hacker
-# listen_for_clients_preferred_style: true # true or false (default)
+# theme: jekyll-theme-console
 
-# Fonts
-# disable_google_fonts: false # set true to prevent loading fonts.googleapis.com
+title: "beiciliang.github.io"
+description: "Beici Liang's Personal Website"
+url: "https://beiciliang.github.io"
 
-# Tracking (generic, optional; loads only in production)
-# tracking:
-#   script_src:
-#     - https://analytics.example.com/matomo.js
-#   async: true   # default true
-#   defer: false  # default false
-#   # Optional inline init snippet (requires CSP allowance if used)
-#   # init: |
-#   #   var _paq = window._paq = window._paq || [];
-#   #   _paq.push(['trackPageView']);
-#   #   _paq.push(['enableLinkTracking']);
-#   #   _paq.push(['setTrackerUrl', 'https://analytics.example.com/matomo.php']);
-#   #   _paq.push(['setSiteId', '1']);
-#
-# # Extend CSP to allow your tracker sources (script-src/connect-src/img-src as needed)
-# # csp_extra: "script-src 'self' https://analytics.example.com; connect-src 'self' https://analytics.example.com; img-src 'self' https://analytics.example.com;"
+header_pages:
+  - index.md
+  - about.md
+
+style: dark
+
+footer: 'drop me an <a target="_blank" rel="noopener noreferrer" href="mailto:beici.liang@foxmail.com">email</a>'
+
+# Build settings
+markdown: kramdown
