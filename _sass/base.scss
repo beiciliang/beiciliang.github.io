@@ -139,6 +139,124 @@ main { animation: fadeIn 0.5s ease-out; }
 .lang-content {
   animation: fadeIn 0.3s ease-out;
 }
+
+/**
+ * Cute emoji hover animations
+ */
+@keyframes popIn {
+  0% { transform: scale(0); opacity: 0; }
+  50% { transform: scale(1.2); }
+  100% { transform: scale(1); opacity: 1; }
+}
+
+@keyframes bounce {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-3px); }
+}
+
+@keyframes wiggle {
+  0%, 100% { transform: rotate(0deg); }
+  25% { transform: rotate(-5deg); }
+  75% { transform: rotate(5deg); }
+}
+
+/* Manos - heart emoji, pink wiggle */
+.link-manos {
+  display: inline-block;
+  transition: color 0.2s ease;
+}
+.link-manos::after {
+  content: '';
+  display: inline-block;
+  opacity: 0;
+  margin-left: 4px;
+  transition: opacity 0.2s ease;
+}
+.link-manos:hover {
+  color: #e91e63;
+  background-color: transparent;
+  text-decoration: none;
+  animation: wiggle 0.3s ease infinite;
+}
+.link-manos:hover::after {
+  content: '\2665';
+  opacity: 1;
+  color: #e91e63;
+  animation: bounce 0.4s ease-in-out infinite;
+}
+
+/* Epidemic Sound / Tencent Music - music emoji */
+.link-music {
+  display: inline;
+}
+.link-music::after {
+  content: '';
+  display: inline-block;
+  opacity: 0;
+  margin-left: 4px;
+  transition: opacity 0.2s ease;
+}
+.link-music:hover::after {
+  content: '\266B';
+  opacity: 1;
+  animation: popIn 0.3s ease-out, bounce 0.4s ease-in-out infinite;
+}
+
+/* NOMONO - microphone emoji */
+.link-mic::after {
+  content: '';
+  display: inline-block;
+  opacity: 0;
+  margin-left: 4px;
+  transition: opacity 0.2s ease;
+}
+.link-mic:hover::after {
+  content: '\1F3A4';
+  opacity: 1;
+  animation: popIn 0.3s ease-out;
+}
+
+/* C4DM/PhD - graduation cap emoji */
+.link-grad::after {
+  content: '';
+  display: inline-block;
+  opacity: 0;
+  margin-left: 4px;
+  transition: opacity 0.2s ease;
+}
+.link-grad:hover::after {
+  content: '\1F393';
+  opacity: 1;
+  animation: popIn 0.3s ease-out;
+}
+
+/* Claude Code - sparkles */
+.link-sparkle {
+  cursor: default;
+}
+.link-sparkle::after {
+  content: '';
+  display: inline-block;
+  opacity: 0;
+  margin-left: 4px;
+  transition: opacity 0.2s ease;
+}
+.link-sparkle:hover::after {
+  content: '\2728';
+  opacity: 1;
+  animation: popIn 0.3s ease-out, wiggle 0.5s ease-in-out infinite;
+}
+
+/* Role tags get a subtle bounce on hover */
+.role-tag:hover {
+  animation: bounce 0.4s ease;
+}
+
+/* Social links wiggle on hover */
+.social-links a:hover {
+  display: inline-block;
+  animation: wiggle 0.3s ease;
+}
 /*h1:before { content: "#";  margin-right: 9px; }
 h2:before { content: "##";  margin-right: 9px; }
 h3:before { content: "###";  margin-right: 9px; }

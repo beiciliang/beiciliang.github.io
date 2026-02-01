@@ -16,24 +16,24 @@ permalink: /
 
 </div>
 
-Hi! I am **Beici Liang**, experienced in music information retrieval, machine learning, backend engineering and cloud solutions for audio services. Based in Stockholm, Sweden with my significant other <a target="_blank" rel="noopener noreferrer" href="https://mmxgn.github.io/">Manos</a>.
+Hi! I am **Beici Liang**, experienced in music information retrieval, machine learning, backend engineering and cloud solutions for audio services. Based in Stockholm, Sweden with my significant other <a class="link-manos" target="_blank" rel="noopener noreferrer" href="https://mmxgn.github.io/">Manos</a>.
 
 ## > current_role
 
-Machine Learning Engineer @ <a target="_blank" rel="noopener noreferrer" href="https://www.epidemicsound.com/">Epidemic Sound</a>. Focused on solving complex challenges in Digital Rights Management, ensuring music activation and claiming across UGC platforms.
+Machine Learning Engineer @ <a class="link-music" target="_blank" rel="noopener noreferrer" href="https://www.epidemicsound.com/">Epidemic Sound</a>. Focused on solving complex challenges in Digital Rights Management, ensuring music activation and claiming across UGC platforms.
 
 ## > experience.log
 
-- Backend & Cloud Engineer @ <a target="_blank" rel="noopener noreferrer" href="https://nomono.co/">NOMONO</a>
-- Research Engineer @ <a target="_blank" rel="noopener noreferrer" href="https://www.tencentmusic.com/en-us/">Tencent Music Entertainment</a>
-- PhD in Media and Arts Technology @ <a target="_blank" rel="noopener noreferrer" href="http://c4dm.eecs.qmul.ac.uk/">C4DM</a>, Queen Mary University of London
+- Backend & Cloud Engineer @ <a class="link-mic" target="_blank" rel="noopener noreferrer" href="https://nomono.co/">NOMONO</a>
+- Research Engineer @ <a class="link-music" target="_blank" rel="noopener noreferrer" href="https://www.tencentmusic.com/en-us/">Tencent Music Entertainment</a>
+- PhD in Media and Arts Technology @ <a class="link-grad" target="_blank" rel="noopener noreferrer" href="http://c4dm.eecs.qmul.ac.uk/">C4DM</a>, Queen Mary University of London
 - BEng in Integrated Circuit @ Tianjin University
 
 ## > side_projects
 
 - Scientific Program Chair for <a target="_blank" rel="noopener noreferrer" href="https://ismir2023.ismir.net/">ISMIR 2023</a>
 - Popular science writer @ <a target="_blank" rel="noopener noreferrer" href="https://mp.weixin.qq.com/mp/homepage?__biz=MzU5MzY3NzI0OA==&hid=1&sn=ed3a383088e132ef1df0e968b36c717d&scene=1&devicetype=iOS11.4.1&version=16070026&lang=zh_CN&nettype=WIFI&ascene=7&session_us=gh_e4d709ed182c&fontScale=100&wx_header=1">intro2musictech</a> and <a target="_blank" rel="noopener noreferrer" href="https://www.zhihu.com/people/beiciliang/answers">Zhihu</a>
-- Vibe coding with Claude Code
+- Vibe coding with <span class="link-sparkle">Claude Code</span>
 
 ## > cat contact.txt
 
@@ -59,24 +59,24 @@ Machine Learning Engineer @ <a target="_blank" rel="noopener noreferrer" href="h
 
 </div>
 
-很高兴认识你! 我是**梁贝茨**，精通音乐信息检索、机器学习、后端开发以及云架构等音频服务相关的技术。现和老伴儿<a target="_blank" rel="noopener noreferrer" href="https://mmxgn.github.io/">马诺斯</a>一起居住在瑞典斯德哥尔摩。
+很高兴认识你! 我是**梁贝茨**，精通音乐信息检索、机器学习、后端开发以及云架构等音频服务相关的技术。现和老伴儿<a class="link-manos" target="_blank" rel="noopener noreferrer" href="https://mmxgn.github.io/">马诺斯</a>一起居住在瑞典斯德哥尔摩。
 
 ## > 当前职位
 
-机器学习工程师 @ <a target="_blank" rel="noopener noreferrer" href="https://www.epidemicsound.com/">Epidemic Sound</a>，专注于解决数字版权管理（DRM）领域的复杂问题，确保音乐在用户生成内容（UGC）平台上的授权激活与版权申诉/版权声明。
+机器学习工程师 @ <a class="link-music" target="_blank" rel="noopener noreferrer" href="https://www.epidemicsound.com/">Epidemic Sound</a>，专注于解决数字版权管理（DRM）领域的复杂问题，确保音乐在用户生成内容（UGC）平台上的授权激活与版权申诉/版权声明。
 
 ## > 工作经历
 
-- 后端架构开发 @ <a target="_blank" rel="noopener noreferrer" href="https://nomono.co/">NOMONO</a>
-- 高级应用研究员 @ <a target="_blank" rel="noopener noreferrer" href="https://www.tencentmusic.com/en-us/">腾讯音乐娱乐集团</a>
-- 博士 @ <a target="_blank" rel="noopener noreferrer" href="http://c4dm.eecs.qmul.ac.uk/">数字音乐中心</a>，伦敦玛丽女王大学
+- 后端架构开发 @ <a class="link-mic" target="_blank" rel="noopener noreferrer" href="https://nomono.co/">NOMONO</a>
+- 高级应用研究员 @ <a class="link-music" target="_blank" rel="noopener noreferrer" href="https://www.tencentmusic.com/en-us/">腾讯音乐娱乐集团</a>
+- 博士 @ <a class="link-grad" target="_blank" rel="noopener noreferrer" href="http://c4dm.eecs.qmul.ac.uk/">数字音乐中心</a>，伦敦玛丽女王大学
 - 工程学士 @ 天津大学集成电路专业
 
 ## > 业余项目
 
 - <a target="_blank" rel="noopener noreferrer" href="https://ismir2023.ismir.net/">ISMIR 2023</a> 学术委员会主席
 - 科普作者 @ <a target="_blank" rel="noopener noreferrer" href="https://mp.weixin.qq.com/mp/homepage?__biz=MzU5MzY3NzI0OA==&hid=1&sn=ed3a383088e132ef1df0e968b36c717d&scene=1&devicetype=iOS11.4.1&version=16070026&lang=zh_CN&nettype=WIFI&ascene=7&session_us=gh_e4d709ed182c&fontScale=100&wx_header=1">无痛入门音乐科技</a> 和 <a target="_blank" rel="noopener noreferrer" href="https://www.zhihu.com/people/beiciliang/answers">知乎</a>
-- 用Claude Code编程
+- 用<span class="link-sparkle">Claude Code</span>编程
 
 ## > 联系方式
 
