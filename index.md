@@ -96,15 +96,15 @@ document.addEventListener('DOMContentLoaded', function() {
   const langBtns = document.querySelectorAll('.lang-btn');
   const langContents = document.querySelectorAll('.lang-content');
 
-  // Check for saved preference
-  const savedLang = localStorage.getItem('preferred-lang') || 'en';
+  // Default to English; remember choice only during current session
+  const savedLang = sessionStorage.getItem('preferred-lang') || 'en';
   setLanguage(savedLang);
 
   langBtns.forEach(btn => {
     btn.addEventListener('click', function() {
       const lang = this.getAttribute('data-lang');
       setLanguage(lang);
-      localStorage.setItem('preferred-lang', lang);
+      sessionStorage.setItem('preferred-lang', lang);
     });
   });
 
