@@ -17,8 +17,7 @@ permalink: /
 
 <span class="role-tag">Developer</span>
 <span class="role-tag">PhD</span>
-<span class="role-tag">Writer</span>
-<span class="role-tag">Audio Tech</span>
+<span class="role-tag">Music Tech</span>
 
 </div>
 
@@ -26,7 +25,7 @@ Hi! I am **Beici Liang**, experienced in music information retrieval, machine le
 
 ## > current_role
 
-Signal Processing Engineer for digital rights management at <a target="_blank" rel="noopener noreferrer" href="https://www.epidemicsound.com/">Epidemic Sound</a>.
+Machine Learning Engineer @ <a target="_blank" rel="noopener noreferrer" href="https://www.epidemicsound.com/">Epidemic Sound</a>. Focused on solving complex challenges in Digital Rights Management, ensuring music activation and claiming across UGC platforms.
 
 ## > experience.log
 
@@ -39,16 +38,15 @@ Signal Processing Engineer for digital rights management at <a target="_blank" r
 
 - Scientific Program Chair for <a target="_blank" rel="noopener noreferrer" href="https://ismir2023.ismir.net/">ISMIR 2023</a>
 - Popular science writer @ <a target="_blank" rel="noopener noreferrer" href="https://mp.weixin.qq.com/mp/homepage?__biz=MzU5MzY3NzI0OA==&hid=1&sn=ed3a383088e132ef1df0e968b36c717d&scene=1&devicetype=iOS11.4.1&version=16070026&lang=zh_CN&nettype=WIFI&ascene=7&session_us=gh_e4d709ed182c&fontScale=100&wx_header=1">intro2musictech</a> and <a target="_blank" rel="noopener noreferrer" href="https://www.zhihu.com/people/beiciliang/answers">Zhihu</a>
+- Vibe coding with Claude Code
 
 ## > cat contact.txt
 
 <div class="social-links">
-<a target="_blank" rel="noopener noreferrer" href="https://beiciliang.github.io/pdf/eng_cv_beici.pdf">CV</a>
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/beiciliang">GitHub</a>
 <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/beiciliang/">LinkedIn</a>
 <a target="_blank" rel="noopener noreferrer" href="https://scholar.google.com/citations?hl=en&user=UkcVRtIAAAAJ">Scholar</a>
-<a target="_blank" rel="noopener noreferrer" href="https://twitter.com/BeiciLiang">Twitter</a>
-<a target="_blank" rel="noopener noreferrer" href="mailto:beici.liang@foxmail.com">Email</a>
+<a target="_blank" rel="noopener noreferrer" href="https://beiciliang.github.io/pdf/eng_cv_beici.pdf">CV</a>
 </div>
 
 </div>
@@ -61,8 +59,8 @@ Signal Processing Engineer for digital rights management at <a target="_blank" r
 
 <span class="role-tag">开发者</span>
 <span class="role-tag">博士</span>
+<span class="role-tag">音乐科技</span>
 <span class="role-tag">科普作者</span>
-<span class="role-tag">音频科技</span>
 
 </div>
 
@@ -70,7 +68,7 @@ Signal Processing Engineer for digital rights management at <a target="_blank" r
 
 ## > 当前职位
 
-在<a target="_blank" rel="noopener noreferrer" href="https://www.epidemicsound.com/">Epidemic Sound</a>负责音乐版权业务的信号处理算法。
+机器学习工程师 @ <a target="_blank" rel="noopener noreferrer" href="https://www.epidemicsound.com/">Epidemic Sound</a>，专注于解决数字版权管理（DRM）领域的复杂问题，确保音乐在用户生成内容（UGC）平台上的授权激活与版权申诉/版权声明。
 
 ## > 工作经历
 
@@ -83,17 +81,17 @@ Signal Processing Engineer for digital rights management at <a target="_blank" r
 
 - <a target="_blank" rel="noopener noreferrer" href="https://ismir2023.ismir.net/">ISMIR 2023</a> 学术委员会主席
 - 科普作者 @ <a target="_blank" rel="noopener noreferrer" href="https://mp.weixin.qq.com/mp/homepage?__biz=MzU5MzY3NzI0OA==&hid=1&sn=ed3a383088e132ef1df0e968b36c717d&scene=1&devicetype=iOS11.4.1&version=16070026&lang=zh_CN&nettype=WIFI&ascene=7&session_us=gh_e4d709ed182c&fontScale=100&wx_header=1">无痛入门音乐科技</a> 和 <a target="_blank" rel="noopener noreferrer" href="https://www.zhihu.com/people/beiciliang/answers">知乎</a>
+- 用Claude Code编程
 
 ## > 联系方式
 
 <div class="social-links">
-<a target="_blank" rel="noopener noreferrer" href="https://beiciliang.github.io/pdf/eng_cv_beici.pdf">简历</a>
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/beiciliang">GitHub</a>
-<a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/beiciliang/">LinkedIn</a>
+<a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/beiciliang/">领英</a>
 <a target="_blank" rel="noopener noreferrer" href="https://scholar.google.com/citations?hl=en&user=UkcVRtIAAAAJ">学术</a>
 <a target="_blank" rel="noopener noreferrer" href="https://mp.weixin.qq.com/mp/homepage?__biz=MzU5MzY3NzI0OA==&hid=1&sn=ed3a383088e132ef1df0e968b36c717d&scene=1&devicetype=iOS11.4.1&version=16070026&lang=zh_CN&nettype=WIFI&ascene=7&session_us=gh_e4d709ed182c&fontScale=100&wx_header=1">微信公众号</a>
 <a target="_blank" rel="noopener noreferrer" href="https://www.zhihu.com/people/beiciliang">知乎</a>
-<a target="_blank" rel="noopener noreferrer" href="mailto:beici.liang@foxmail.com">邮箱</a>
+<a target="_blank" rel="noopener noreferrer" href="https://beiciliang.github.io/pdf/eng_cv_beici.pdf">英文简历</a>
 </div>
 
 </div>
