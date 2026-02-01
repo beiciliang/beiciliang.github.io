@@ -1,5 +1,4 @@
 @charset "utf-8";
-@import url('https://fonts.googleapis.com/css?family=Source+Code+Pro:400,700');
 
 /**
  * Style variables
@@ -12,15 +11,134 @@ $container-width:      90% !default;
 $container-max-width:  600px !default;
 
 /**
+ * Animations
+ */
+@keyframes blink {
+  0%, 50% { opacity: 1; }
+  51%, 100% { opacity: 0; }
+}
+
+@keyframes typing {
+  from { width: 0; }
+  to { width: 100%; }
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(10px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+/**
  * Global
  */
 body { background-color: var(--background-color);  margin: 0 auto;  padding: 0;  font-family: $base-font-family;  font-size: $base-font-size;  color: var(--text-color);  text-align: left;  line-height: $base-line-height !important; }
 h1, h2, h3, h4, h5, h6 { font-size: $base-font-size;  margin: 0px;  margin-top: 22px;  font-weight: bold;  color: var(--text-color); }
 p, ul, ol { margin: 0px;  color: var(--text-color); }
-a { text-decoration: underline;  color: var(--link-color); }
+a { text-decoration: underline;  color: var(--link-color); transition: all 0.2s ease; }
 a:hover { color: var(--background-color); background-color: var(--base-color); }
 .primary-text { color: var(--primary-color); }
 @media only screen and (max-device-width: 500px) { * { font-size: $mobile-font-size !important; } }
+
+/**
+ * Terminal cursor effect
+ */
+.cursor {
+  display: inline-block;
+  width: 8px;
+  height: 1em;
+  background-color: var(--primary-color);
+  animation: blink 1s step-end infinite;
+  vertical-align: text-bottom;
+  margin-left: 2px;
+}
+
+/**
+ * Typing effect for headings
+ */
+.typing-effect {
+  overflow: hidden;
+  white-space: nowrap;
+  display: inline-block;
+  animation: typing 2s steps(30, end);
+}
+
+/**
+ * Fade in animation for content
+ */
+main { animation: fadeIn 0.5s ease-out; }
+
+/**
+ * Profile section styling
+ */
+.profile-section {
+  margin-bottom: 20px;
+}
+
+.role-tag {
+  display: inline-block;
+  border: 1px solid var(--base-color);
+  padding: 2px 8px;
+  margin: 2px 4px 2px 0;
+  font-size: 11px;
+  transition: all 0.2s ease;
+}
+
+.role-tag:hover {
+  background-color: var(--base-color);
+  color: var(--background-color);
+}
+
+/**
+ * Social links styling
+ */
+.social-links a {
+  margin-right: 12px;
+  transition: all 0.2s ease;
+}
+
+.social-links a:hover {
+  color: var(--primary-color);
+  background-color: transparent;
+}
+
+/**
+ * Language toggle
+ */
+.lang-toggle {
+  display: inline;
+  margin-left: 10px;
+}
+
+.lang-toggle:before {
+  content: none;
+}
+
+.lang-btn {
+  background-color: transparent;
+  border: 1px solid var(--base-color);
+  color: var(--text-color);
+  padding: 2px 8px;
+  margin-left: 4px;
+  font-family: $base-font-family;
+  font-size: 11px;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.lang-btn:hover {
+  background-color: var(--base-color);
+  color: var(--background-color);
+}
+
+.lang-btn.active {
+  background-color: var(--primary-color);
+  border-color: var(--primary-color);
+  color: var(--background-color);
+}
+
+.lang-content {
+  animation: fadeIn 0.3s ease-out;
+}
 /*h1:before { content: "#";  margin-right: 9px; }
 h2:before { content: "##";  margin-right: 9px; }
 h3:before { content: "###";  margin-right: 9px; }

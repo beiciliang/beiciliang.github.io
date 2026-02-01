@@ -1,5 +1,26 @@
 <!DOCTYPE html>
-<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+<html lang="{{ page.lang | default: site.lang | default: 'en' }}">
+{%- comment -%}
+  Build a practical CSP. It remains strict by default while allowing
+  common use cases like external images and Google Fonts.
+{%- endcomment -%}
+{%- capture csp -%}
+default-src 'none';
+connect-src 'self';
+base-uri 'self';
+form-action 'none';
+img-src 'self' https: data:;
+style-src 'self' 'unsafe-inline' https://fonts.googleapis.com;
+font-src 'self' https://fonts.gstatic.com data:;
+media-src 'self';
+object-src 'none';
+child-src 'self';
+script-src 'self' 'unsafe-inline';
+{%- endcapture -%}
+{%- capture csp_final -%}{{ csp | strip | replace: '\n', ' ' }} {%- if site.csp_extra %} {{ site.csp_extra }}{%- endif -%}{%- endcapture -%}
+<meta http-equiv="Content-Security-Policy" content="{{ csp_final | strip }}" />
+<meta http-equiv="X-XSS-Protection"  content="1;mode=block" always>
+<meta http-equiv="Referrer-Policy" content="no-referrer, strict-origin-when-cross-origin">
 
   {%- include head.html -%}
 
