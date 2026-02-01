@@ -4,6 +4,13 @@ layout: home
 permalink: /
 ---
 
+<div class="lang-toggle">
+  <button class="lang-btn active" data-lang="en">EN</button>
+  <button class="lang-btn" data-lang="cn">中文</button>
+</div>
+
+<div class="lang-content lang-en" markdown="1">
+
 <h1 class="typing-effect">$ whoami<span class="cursor"></span></h1>
 
 <div class="profile-section">
@@ -33,16 +40,20 @@ Signal Processing Engineer for digital rights management at <a target="_blank" r
 - Scientific Program Chair for <a target="_blank" rel="noopener noreferrer" href="https://ismir2023.ismir.net/">ISMIR 2023</a>
 - Popular science writer @ <a target="_blank" rel="noopener noreferrer" href="https://mp.weixin.qq.com/mp/homepage?__biz=MzU5MzY3NzI0OA==&hid=1&sn=ed3a383088e132ef1df0e968b36c717d&scene=1&devicetype=iOS11.4.1&version=16070026&lang=zh_CN&nettype=WIFI&ascene=7&session_us=gh_e4d709ed182c&fontScale=100&wx_header=1">intro2musictech</a> and <a target="_blank" rel="noopener noreferrer" href="https://www.zhihu.com/people/beiciliang/answers">Zhihu</a>
 
-## > cat links.txt
+## > cat contact.txt
 
 <div class="social-links">
 <a target="_blank" rel="noopener noreferrer" href="https://beiciliang.github.io/pdf/eng_cv_beici.pdf">CV</a>
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/beiciliang">GitHub</a>
 <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/beiciliang/">LinkedIn</a>
 <a target="_blank" rel="noopener noreferrer" href="https://scholar.google.com/citations?hl=en&user=UkcVRtIAAAAJ">Scholar</a>
+<a target="_blank" rel="noopener noreferrer" href="https://twitter.com/BeiciLiang">Twitter</a>
+<a target="_blank" rel="noopener noreferrer" href="mailto:beici.liang@foxmail.com">Email</a>
 </div>
 
----
+</div>
+
+<div class="lang-content lang-cn" markdown="1" style="display: none;">
 
 <h1 class="typing-effect">$ 关于我<span class="cursor"></span></h1>
 
@@ -73,11 +84,48 @@ Signal Processing Engineer for digital rights management at <a target="_blank" r
 - <a target="_blank" rel="noopener noreferrer" href="https://ismir2023.ismir.net/">ISMIR 2023</a> 学术委员会主席
 - 科普作者 @ <a target="_blank" rel="noopener noreferrer" href="https://mp.weixin.qq.com/mp/homepage?__biz=MzU5MzY3NzI0OA==&hid=1&sn=ed3a383088e132ef1df0e968b36c717d&scene=1&devicetype=iOS11.4.1&version=16070026&lang=zh_CN&nettype=WIFI&ascene=7&session_us=gh_e4d709ed182c&fontScale=100&wx_header=1">无痛入门音乐科技</a> 和 <a target="_blank" rel="noopener noreferrer" href="https://www.zhihu.com/people/beiciliang/answers">知乎</a>
 
-## > 链接
+## > 联系方式
 
 <div class="social-links">
 <a target="_blank" rel="noopener noreferrer" href="https://beiciliang.github.io/pdf/eng_cv_beici.pdf">简历</a>
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/beiciliang">GitHub</a>
 <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/beiciliang/">LinkedIn</a>
 <a target="_blank" rel="noopener noreferrer" href="https://scholar.google.com/citations?hl=en&user=UkcVRtIAAAAJ">学术</a>
+<a target="_blank" rel="noopener noreferrer" href="https://mp.weixin.qq.com/mp/homepage?__biz=MzU5MzY3NzI0OA==&hid=1&sn=ed3a383088e132ef1df0e968b36c717d&scene=1&devicetype=iOS11.4.1&version=16070026&lang=zh_CN&nettype=WIFI&ascene=7&session_us=gh_e4d709ed182c&fontScale=100&wx_header=1">微信公众号</a>
+<a target="_blank" rel="noopener noreferrer" href="https://www.zhihu.com/people/beiciliang">知乎</a>
+<a target="_blank" rel="noopener noreferrer" href="mailto:beici.liang@foxmail.com">邮箱</a>
 </div>
+
+</div>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  const langBtns = document.querySelectorAll('.lang-btn');
+  const langContents = document.querySelectorAll('.lang-content');
+
+  // Check for saved preference
+  const savedLang = localStorage.getItem('preferred-lang') || 'en';
+  setLanguage(savedLang);
+
+  langBtns.forEach(btn => {
+    btn.addEventListener('click', function() {
+      const lang = this.getAttribute('data-lang');
+      setLanguage(lang);
+      localStorage.setItem('preferred-lang', lang);
+    });
+  });
+
+  function setLanguage(lang) {
+    langBtns.forEach(btn => {
+      btn.classList.toggle('active', btn.getAttribute('data-lang') === lang);
+    });
+    langContents.forEach(content => {
+      if (content.classList.contains('lang-' + lang)) {
+        content.style.display = 'block';
+      } else {
+        content.style.display = 'none';
+      }
+    });
+  }
+});
+</script>

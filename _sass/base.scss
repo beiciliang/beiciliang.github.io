@@ -100,6 +100,40 @@ main { animation: fadeIn 0.5s ease-out; }
   color: var(--primary-color);
   background-color: transparent;
 }
+
+/**
+ * Language toggle
+ */
+.lang-toggle {
+  margin-bottom: 20px;
+}
+
+.lang-btn {
+  background-color: transparent;
+  border: 1px solid var(--base-color);
+  color: var(--text-color);
+  padding: 4px 12px;
+  margin-right: 8px;
+  font-family: $base-font-family;
+  font-size: $base-font-size;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.lang-btn:hover {
+  background-color: var(--base-color);
+  color: var(--background-color);
+}
+
+.lang-btn.active {
+  background-color: var(--primary-color);
+  border-color: var(--primary-color);
+  color: var(--background-color);
+}
+
+.lang-content {
+  animation: fadeIn 0.3s ease-out;
+}
 /*h1:before { content: "#";  margin-right: 9px; }
 h2:before { content: "##";  margin-right: 9px; }
 h3:before { content: "###";  margin-right: 9px; }
