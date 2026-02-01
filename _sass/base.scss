@@ -105,17 +105,22 @@ main { animation: fadeIn 0.5s ease-out; }
  * Language toggle
  */
 .lang-toggle {
-  margin-bottom: 20px;
+  display: inline;
+  margin-left: 10px;
+}
+
+.lang-toggle:before {
+  content: none;
 }
 
 .lang-btn {
   background-color: transparent;
   border: 1px solid var(--base-color);
   color: var(--text-color);
-  padding: 4px 12px;
-  margin-right: 8px;
+  padding: 2px 8px;
+  margin-left: 4px;
   font-family: $base-font-family;
-  font-size: $base-font-size;
+  font-size: 11px;
   cursor: pointer;
   transition: all 0.2s ease;
 }

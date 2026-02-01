@@ -4,11 +4,6 @@ layout: home
 permalink: /
 ---
 
-<div class="lang-toggle">
-  <button class="lang-btn active" data-lang="en">EN</button>
-  <button class="lang-btn" data-lang="cn">中文</button>
-</div>
-
 <div class="lang-content lang-en" markdown="1">
 
 <h1 class="typing-effect">$ whoami<span class="cursor"></span></h1>
