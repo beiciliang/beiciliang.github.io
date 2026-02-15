@@ -14,7 +14,7 @@ You can contact me via the following social media platforms, or just <a target="
 
 <br />推特: <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/BeiciLiang">Twitter</a>
 
-<br />微信公众号-无痛入门音乐科技: <a target="_blank" rel="noopener noreferrer" href="https://mp.weixin.qq.com/mp/homepage?__biz=MzU5MzY3NzI0OA==&hid=1&sn=ed3a383088e132ef1df0e968b36c717d&scene=1&devicetype=iOS11.4.1&version=16070026&lang=zh_CN&nettype=WIFI&ascene=7&session_us=gh_e4d709ed182c&fontScale=100&wx_header=1">intro2musictech</a> (in Chinese)
+<br />微信公众号-无痛入门音乐科技: <a target="_blank" rel="noopener noreferrer" href="https://beiciliang.github.io/intro2musictech/">intro2musictech</a> (in Chinese)
 
 <br />知乎: <a target="_blank" rel="noopener noreferrer" href="https://www.zhihu.com/people/beiciliang">Zhihu</a> (in Chinese)
 

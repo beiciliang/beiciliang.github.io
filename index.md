@@ -32,7 +32,7 @@ Machine Learning Engineer @ <a class="link-music" target="_blank" rel="noopener 
 ## > side_projects
 
 - Scientific Program Chair for <a target="_blank" rel="noopener noreferrer" href="https://ismir2023.ismir.net/">ISMIR 2023</a>
-- Popular science writer @ <a target="_blank" rel="noopener noreferrer" href="https://mp.weixin.qq.com/mp/homepage?__biz=MzU5MzY3NzI0OA==&hid=1&sn=ed3a383088e132ef1df0e968b36c717d&scene=1&devicetype=iOS11.4.1&version=16070026&lang=zh_CN&nettype=WIFI&ascene=7&session_us=gh_e4d709ed182c&fontScale=100&wx_header=1">intro2musictech</a> and <a target="_blank" rel="noopener noreferrer" href="https://www.zhihu.com/people/beiciliang/answers">Zhihu</a>
+- Popular science writer @ <a target="_blank" rel="noopener noreferrer" href="https://beiciliang.github.io/intro2musictech/">intro2musictech</a> and <a target="_blank" rel="noopener noreferrer" href="https://www.zhihu.com/people/beiciliang/answers">Zhihu</a>
 - Vibe coding with <span class="link-sparkle">Claude Code</span>
 
 ## > cat contact.txt
@@ -75,7 +75,7 @@ Machine Learning Engineer @ <a class="link-music" target="_blank" rel="noopener 
 ## > 业余项目
 
 - <a target="_blank" rel="noopener noreferrer" href="https://ismir2023.ismir.net/">ISMIR 2023</a> 学术委员会主席
-- 科普作者 @ <a target="_blank" rel="noopener noreferrer" href="https://mp.weixin.qq.com/mp/homepage?__biz=MzU5MzY3NzI0OA==&hid=1&sn=ed3a383088e132ef1df0e968b36c717d&scene=1&devicetype=iOS11.4.1&version=16070026&lang=zh_CN&nettype=WIFI&ascene=7&session_us=gh_e4d709ed182c&fontScale=100&wx_header=1">无痛入门音乐科技</a> 和 <a target="_blank" rel="noopener noreferrer" href="https://www.zhihu.com/people/beiciliang/answers">知乎</a>
+- 科普作者 @ <a target="_blank" rel="noopener noreferrer" href="https://beiciliang.github.io/intro2musictech/">无痛入门音乐科技</a> 和 <a target="_blank" rel="noopener noreferrer" href="https://www.zhihu.com/people/beiciliang/answers">知乎</a>
 - 用<span class="link-sparkle">Claude Code</span>编程
 
 ## > 联系方式
@@ -84,8 +84,6 @@ Machine Learning Engineer @ <a class="link-music" target="_blank" rel="noopener 
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/beiciliang">GitHub</a>
 <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/beiciliang/">领英</a>
 <a target="_blank" rel="noopener noreferrer" href="https://scholar.google.com/citations?hl=en&user=UkcVRtIAAAAJ">学术</a>
-<a target="_blank" rel="noopener noreferrer" href="https://mp.weixin.qq.com/mp/homepage?__biz=MzU5MzY3NzI0OA==&hid=1&sn=ed3a383088e132ef1df0e968b36c717d&scene=1&devicetype=iOS11.4.1&version=16070026&lang=zh_CN&nettype=WIFI&ascene=7&session_us=gh_e4d709ed182c&fontScale=100&wx_header=1">微信公众号</a>
-<a target="_blank" rel="noopener noreferrer" href="https://www.zhihu.com/people/beiciliang">知乎</a>
 <a target="_blank" rel="noopener noreferrer" href="https://beiciliang.github.io/pdf/eng_cv_beici.pdf">英文简历</a>
 </div>
 
